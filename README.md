@@ -1,2 +1,1 @@
-# synchronousBallMovement
-Ball moving synchronously
+C35-Sync-Ball-Movement-Debugged-Code
